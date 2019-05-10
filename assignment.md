@@ -13,19 +13,17 @@ In each of the following situations, the resulting data *may be* binomially dist
 
 1. A large bucket contains 1256 six sided dice.  You dump all of them onto the ground (without losing any) and count how many 4's you see.
 
-2. A large bucket contains 1256 dice with varying numbers of sides (some have four sides, some have six, some have 8, some have 10, some have 12, and some have 20).  You dump them all onto the group (without losing any) and count how many 4's you see.
+2. A large bucket contains 1256 dice with varying numbers of sides (some have four sides, some have six, some have 8, some have 10, some have 12, and some have 20).  You dump them all onto the ground (without losing any) and count how many 4's you see.
 
-3.  A magic the gathering deck is made up of two types of cards: lands, and playables.  You have a deck that contains the typical 17 lands.  You shuffle your deck, then draw the top cards and see if it is a land.  Then you repeat this process 100 times, and count how often there is a land on top.
+3.  A magic the gathering deck (like a deck of cards) is made up of two types of cards: lands, and playables.  You have a froty card deck that contains the typical 17 lands.  You shuffle your deck, then draw the top card and see if it is a land.  You repeat this process 100 times, and count how often there is a land on top.
 
-4.  A magic the gathering deck (like a deck of cards) is made up of two types of cards: lands, and playables.  You have a deck that contains the typical 17 lands.  You shuffle your deck, then draw the top cards and see if it is a land.  Then you repeat this process 100 times, and count how often there is a land on top.
-
-5.  A magic the gathering deck is made up of two types of cards: lands, and playables.  You have a deck that contains the typical 17 lands.  You shuffle your deck, draw a hand of 7 cards, and count the number of lands.
+4.  A magic the gathering deck is made up of two types of cards: lands, and playables.  You have a forty card deck that contains the typical 17 lands.  You shuffle your deck, draw a hand of 7 cards, and count the number of lands.
 
 #### The following two I'm gonna tell you up front: these ARE binomially distributed!  Convince yourself this is true, and compute the appropriate values of the parameters.
 
-6. A large bucket contains 1256 six sided dice.  You dump all of them onto the ground, but this time you lose a random number of dice; there is a 10% chance you will lose any individual die.  You, again, count the number of 4's. 
+5. A large bucket contains 1256 six sided dice.  You dump all of them onto the ground, but this time you lose a random number of dice; there is a 10% chance you will lose any individual die.  You, again, count the number of 4's. 
 
-7.  A magic the gathering deck is made up of two types of cards: lands, and playables.  Although 17 lands is typical in a 40 card deck, it is sometimes correct to play 16 or 18 lands.  Say when you construct a deck, 80% of them contain 17 lands, 10% contain 16, and 10% contain 18.  You build a magic the gathering deck, shuffle it, and then look at the top card and see if it is a land.  You then repeat this process 100 times (including rebuilding the deck), and count how many times there was a land on top.
+6.  A magic the gathering deck is made up of two types of cards: lands, and playables.  Although 17 lands is typical in a 40 card deck, it is sometimes correct to play 16 or 18 lands.  Say when you construct a deck, 80% of them contain 17 lands, 10% contain 16, and 10% contain 18.  You build a magic the gathering deck, shuffle it, and then look at the top card and see if it is a land.  You then repeat this process 100 times (including rebuilding the deck), and count how many times there was a land on top.
 
 
 ## Binomial Hypothesis Tests
