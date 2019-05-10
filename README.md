@@ -4,4 +4,7 @@ This assignment is all about the Binomial distribution!  In particular, you will
 
 ## Objectives
 
-TBD
+- Describe the null hypothesis testing procedure.
+- Define a p-value.
+- Setup a null hypothesis for a binomial test.
+- Calculate a p-vale for a binomial test.
