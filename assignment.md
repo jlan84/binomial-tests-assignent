@@ -59,4 +59,4 @@ In this final section, we will see how one of the examples above changes as we v
 
 3. Suppose the *truth* is that Muriel gets 52% of the mugs correct.  Vary the number of mugs total between 1 and 250, and in each case assume that the number Muriel gets correct is `0.52 * n_mugs` (which isn't an integer, but do something sensible to make it one).  Plot the p-value of a binomial test on this data as the number of mugs used varies.
 
-4. How many mugs would we need to achieve a p-value of `< 0.05`, of `< 0.01`, of `< 0.001`?
+4. How many mugs would we need to achieve a p-value of `< 0.2`, of `< 0.1`, of `< 0.05`?
