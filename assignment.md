@@ -15,7 +15,7 @@ In each of the following situations, the resulting data *may be* binomially dist
 
 2. A large bucket contains 1256 dice with varying numbers of sides (some have four sides, some have six, some have 8, some have 10, some have 12, and some have 20).  You dump them all onto the ground (without losing any) and count how many 4's you see.
 
-3.  A magic the gathering deck (like a deck of cards) is made up of two types of cards: lands, and playables.  You have a froty card deck that contains the typical 17 lands.  You shuffle your deck, then draw the top card and see if it is a land.  You repeat this process 100 times, and count how often there is a land on top.
+3.  A magic the gathering deck (like a deck of cards) is made up of two types of cards: lands, and playables.  You have a forty card deck that contains the typical 17 lands.  You shuffle your deck, then draw the top card and see if it is a land.  You repeat this process 100 times, and count how often there is a land on top.
 
 4.  A magic the gathering deck is made up of two types of cards: lands, and playables.  You have a forty card deck that contains the typical 17 lands.  You shuffle your deck, draw a hand of 7 cards, and count the number of lands.
 
