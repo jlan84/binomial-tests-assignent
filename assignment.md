@@ -38,7 +38,7 @@ In each of the following situations, a decision can be made by using a hypothesi
 
 1. Muriel still insists she can tell if you poured milk into tea before or after the hot water.  To prove her point, she goes to goodwill and purchases ALL of their mugs, 137 in total.  It take all day, but you manage to randomly make cups of tea milk or water first in all the mugs, and test her on all of them.  She gets 72 correct.  Do you believe her now?
 
-2. You are working on your heelflips (a skateboarding trick).  Your goal is to land them more than 50% of the time (as in, the true rate you land them is over one half.  Of course, in any given sample, you may learn more or less than that ideal).   You attempt 122 heelflips in a day, and land 71 of them.  Do you believe you are as good as you want to be?
+2. You are working on your heelflips (a skateboarding trick).  Your goal is to land them more than 50% of the time (as in, the true rate you land them is over one half.  Of course, in any given sample, you may learn more or less than that ideal).   You attempt 122 heelflips in a day, and land 72 of them.  Do you believe you are as good as you want to be?
 
 3. Buses are seemingly always late, like 90% of them.  Thoroughly dismayed with the state of public transportation, you spend all day collecting data and being just generally upset.  Out of 53 total bus arrivals in a given day at your local bus stop, 49 of them were late.  Is the situation really that bad, 90% of them?
 
