@@ -1,8 +1,12 @@
 # Binomial Tests
 
+## Introduction
+
 In this assignment, we will explore the simplest kind of statistical test, tests where the distribution of data under a null hypothesis is binomial.  More sophisticated tests, like the z-tests (which use the normal distribution) and the t-tests (which use a generalization of the normal distribution called the t-distribution) can be viewed as elaborations on the themes set down here.
 
-## Binomially Distributed Data
+## Basic
+
+### Part 1: Binomially Distributed Data
 
 Recall the binomial distribution describes data generated when we observe a binary outcome (one of two things can happen) a fixed number of times, and the probability that one or another thing happens for each individual outcome does not change.
 
@@ -26,7 +30,7 @@ In each of the following situations, the resulting data *may be* binomially dist
 6.  A magic the gathering deck is made up of two types of cards: lands, and playables.  Although 17 lands is typical in a 40 card deck, it is sometimes correct to play 16 or 18 lands.  Say when you construct a deck, 80% of them contain 17 lands, 10% contain 16, and 10% contain 18.  You build a magic the gathering deck, shuffle it, and then look at the top card and see if it is a land.  You then repeat this process 100 times (including rebuilding the deck), and count how many times there was a land on top.
 
 
-## Binomial Hypothesis Tests
+### Part 2: Binomial Hypothesis Tests
 
 In each of the following situations, a decision can be made by using a hypothesis test based on the binomial distribution.  For each scenario:
 
@@ -36,7 +40,7 @@ In each of the following situations, a decision can be made by using a hypothesi
   - Calculate the p-value associated with the stated null and alternate hypothesis.
   - Decide whether to reject the null hypothesis.
 
-1. Muriel still insists she can tell if you poured milk into tea before or after the hot water.  To prove her point, she goes to goodwill and purchases ALL of their mugs, 137 in total.  It take all day, but you manage to randomly make cups of tea milk or water first in all the mugs, and test her on all of them.  She gets 72 correct.  Do you believe her now?
+1. Muriel still insists she can tell if you poured milk into tea before or after the hot water.  To prove her point, she goes to goodwill and purchases ALL of their mugs, 137 in total.  It take all day, but you manage to randomly make cups of tea milk or water first in all the mugs, without telling her how many there are of each, and test her on all of them.  She gets 72 correct.  Do you believe her now?
 
 2. You are working on your heelflips (a skateboarding trick).  Your goal is to land them more than 50% of the time (as in, the true rate you land them is over one half.  Of course, in any given sample, you may learn more or less than that ideal).   You attempt 122 heelflips in a day, and land 72 of them.  Do you believe you are as good as you want to be?
 
@@ -44,8 +48,9 @@ In each of the following situations, a decision can be made by using a hypothesi
 
 4. You'd like to think that you are improving at programming, but most of your programs don't run at first.  Your instructors insist that this is normal, but it's discouraging, so you would like to have some measure of improvement.  At the beginning, none of your programs ran the first time, but this week you wrote 6 programs, and one of them ran the first time!  Can you confidently clam that more than 5% of your programs run the first time, you'd feel pretty good about that.
 
+## Advanced
 
-## Varying the Sample Size
+## Part 3: Varying the Sample Size
 
 In this final section, we will see how one of the examples above changes as we vary the sample size.
 
